@@ -1,0 +1,54 @@
+[
+  {
+    "firstName": "Makrine",
+    "lastName": "Macharashvili",
+    "cardDetails": {
+      "cardNumber": "1234-5678-9012-3456",
+      "expirationDate": "12/25",
+      "CVC": "123"
+    },
+    "pinCode": "1234",
+    "transactionHistory": [
+      {
+        "transactionDate": "2024-01-03T10:15:30Z",
+        "transactionType": "ChangePin",
+        "amount": 0,
+        "amountGEL": 100,
+        "amountUSD": 0,
+        "amountEUR": 0
+      },
+      {
+        "transactionDate": "2024-01-03T10:15:30Z",
+        "transactionType": "DepositCheck",
+        "amount": 100,
+        "amountGEL": 0,
+        "amountUSD": 0,
+        "amountEUR": 0
+      },
+      {
+        "transactionDate": "2024-01-02T15:45:00Z",
+        "transactionType": "GetAmount",
+        "amount": 500,
+        "amountGEL": 0,
+        "amountUSD": 0,
+        "amountEUR": 0
+      },
+      {
+        "transactionDate": "2024-01-01T08:20:45Z",
+        "transactionType": "FillAmount",
+        "amount": 600,
+        "amountGEL": 0,
+        "amountUSD": 0,
+        "amountEUR": 0
+      },
+      {
+        "transactionDate": "2024-01-01T08:20:45Z",
+        "transactionType": "Balance Inquiry",
+        "amount": 0,
+        "amountGEL": 0,
+        "amountUSD": 0,
+        "amountEUR": 0
+      }
+    ]
+  }
+]
